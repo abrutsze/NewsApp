@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="detail">Detail</string>
+    <string name="retry">Retry</string>
+    <string name="error_title">Something went wrong</string>
+    <string name="error_message">Please try again later.</string>
+</resources>
