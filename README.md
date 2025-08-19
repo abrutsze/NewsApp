@@ -80,5 +80,5 @@ Core data flow:
   ./gradlew test
   ```
 
-  ## 6)Demo video
-  [![Watch the video](media/demo.mp4)]
+## 6)Demo video
+[Download demo video](media/demo.mp4)
